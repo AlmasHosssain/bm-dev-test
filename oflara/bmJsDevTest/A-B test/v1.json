@@ -1,0 +1,8 @@
+{
+    "files": [
+        "./variationB/variation.css",
+        "./variationB/variation.js"
+    ],
+    "urls": ["https://www.oflara.com/collections/fancy-crystal-necklace-sets"],
+    "inject": ""
+}
